@@ -19,11 +19,16 @@ button{
     font-weight: bold;
     font-style: italic;
     color: rebeccapurple;
-    margin: 2px;
-    padding: 10px;
+    margin: auto;
+    margin-top :10px;
     margin-bottom: 10px;
+    padding: 12px;
     background-color: lightblue;
     border: 2px solid rebeccapurple;
     border-radius: 10px;
     cursor: pointer;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
 }
